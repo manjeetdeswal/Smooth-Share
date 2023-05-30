@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <string name="web_share_address" translatable="false">http://%s:%d/</string>
+
+</resources>

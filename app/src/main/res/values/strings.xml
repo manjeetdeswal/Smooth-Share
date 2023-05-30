@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="app_name" translatable="false">Smooth Share</string>
+
+    <string name="text_leaf_share" translatable="false">Smooth Share</string>
+    <string name="NativeDownload">ca-app-pub-7993956656856547/7060060655</string>
+    <string name="intMain">ca-app-pub-7993956656856547/2101563234</string>
+    <string name="reject">Reject</string>
+    <string name="empty_list">The list is empty</string>
+    <string name="delete_all">Delete All</string>
+    <string name="cancel">Cancel</string>
+    <string name="close">Close</string>
+    <string name="unknown_failure">Something went wrong</string>
+    <string name="receive">Receive</string>
+    <string name="empty_text">empty</string>
+    <string name="remove">Remove</string>
+    <string name="organizing_files_notice">Organizing files…</string>
+    <string name="storage_permission_summary">This permission allows Smooth Share app to read and write to your device\'s
+        storage for receiving and sharing files.
+    </string>
+    <string name="transfer_details">Transfer Details</string>
+    <string name="wifi_direct">Wi-Fi Direct</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="ethernet">Ethernet</string>
+    <string name="unknown_interface">Unknown Connection</string>
+    <string name="storage_permission">Storage Permission</string>
+    <string name="removed">Removed</string>
+    <string name="service_running_notice">Smooth Share can share files now</string>
+    <string name="high_priority_notifications">Important Notifications</string>
+    <string name="low_priority_notifications">Low Priority Notifications</string>
+    <string name="exit">Exit</string>
+    <string name="files">Files</string>
+    <string name="open">Open</string>
+    <string name="empty_transfers_list">All transfers appear here</string>
+    <string name="transfers">Transfers</string>
+    <string name="sends">Send</string>
+    <string name="add_files">Add Files</string>
+    <string name="welcome">Welcome</string>
+    <string name="introduction_set_up_permissions">Set Up Permissions</string>
+    <string name="introduction_finished">All Set!</string>
+    <string name="web_share">Web Share</string>
+    <string name="empty_connections_list">Networks you connect to appear here</string>
+    <string name="vpn_interface">VPN Server</string>
+    <string name="transfer_history">Transfer History</string>
+    <string name="error_unknown">Unknown error</string>
+    <string name="error_content_not_found">Content not found</string>
+    <string name="tap_to_launch_notice">Tap to launch</string>
+    <string name="background_service">Background Service</string>
+    <string name="notifications_instructive">Instructive Notifications</string>
+    <string name="web_share_description">An interface for file-sharing via web browsers</string>
+    <string name="share_on_web">Share on Web</string>
+    <string name="sharing_on_web">Sharing on Web</string>
+    <string name="folders">Folders</string>
+    <string name="web_share_empty_notice">Share something from the app first.</string>
+    <string name="send_using_web_share_success_notice">Sent \"%s\"</string>
+    <string name="receiving_using_web_web_share">Receiving using Smooth Share</string>
+    <string name="received_using_web_share">Received using Smooth Share</string>
+    <string name="warning_permissions_not_accepted">Set up the permissions first.</string>
+    <string name="grant">Grant</string>
+    <string name="granted">Granted</string>
+    <string name="error_no_activity_to_view">Could not find an app to open the content with</string>
+    <string name="shared_by_other_apps">Shared by Other Apps</string>
+    <string name="text_fileShareAppChoose">Choose an app to share with</string>
+
+
+    <string name="delete_transfer_history">Delete All Transfer History</string>
+
+    <string name="size_gb">%1$.1f GB</string>
+    <string name="size_mb">%1$.1f MB</string>
+    <string name="size_kb">%1$.1f kb</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="more_apps">More Apps</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+</resources>

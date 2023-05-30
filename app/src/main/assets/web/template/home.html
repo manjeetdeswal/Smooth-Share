@@ -1,0 +1,66 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>${app_name}</title>
+    <meta name="description" content="${web_share_description}">
+    <meta name="author" content="Veli Tasalı">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-dark.min.css">
+    <link rel="icon" type="image/icon" href="/images/favicon.ico">
+    <style>
+        body {
+            font-family: 'Cantarell', sans-serif;
+        }
+
+        h1, h2, h3, h4 {
+            font-weight: 900;
+        }
+
+        h5, h6 {
+            font-weight: 700;
+        }
+
+        .img-cover {
+            object-fit: cover;
+            height: 14rem;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-12 mt-5 mb-3 border-bottom">
+            <h1>
+            
+                <span class="text-muted">${app_name}</span>
+            </h1>
+            <p>${web_share_description}</p>
+        </div>
+        ${content_body}
+
+        <div class="col-12 text-center mb-4">
+            <span class="text-secondary" style="font-size: 28pt">&middot;</span>
+        </div>
+        <div class="col-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3 mb-4" id="uploader">
+            ${uploaded_content}
+            <form action="/upload" method="post" enctype="multipart/form-data">
+                <input class="form-control form-control-lg" type="file" name="content" onchange="form.submit()">
+            </form>
+        </div>
+        <div class="col-12 text-center mb-4">
+            <span class="text-secondary" style="font-size: 28pt">&middot;</span>
+        </div>
+        <footer class="col-12 text-center mb-4">
+            <!-- Do not remove! -->
+            <p>© 2023 The Notes Giver</a></p>
+            
+        </footer>
+    </div>
+</div>
+<script src="/js/bootstrap.min.js"></script>
+</body>
+</html>
