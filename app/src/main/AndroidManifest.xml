@@ -69,7 +69,7 @@
             android:value="true" /> <!-- Sample AdMob App ID: ca-app-pub-3940256099942544~3347511713 -->
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-7993956656856547~2126464028" />
+            android:value="ca-app-pub-3940256099942544~3347511713" />
         <service
             android:name="com.thenotesgiver.smooth_share.service.BackgroundService"
             android:enabled="true"
