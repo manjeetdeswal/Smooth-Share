@@ -5,8 +5,8 @@
     <string name="app_name" translatable="false">Smooth Share</string>
 
     <string name="text_leaf_share" translatable="false">Smooth Share</string>
-    <string name="NativeDownload">ca-app-pub-7993956656856547/7060060655</string>
-    <string name="intMain">ca-app-pub-7993956656856547/2101563234</string>
+    <string name="NativeDownload">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="intMain">ca-app-pub-3940256099942544/1033173712</string>
     <string name="reject">Reject</string>
     <string name="empty_list">The list is empty</string>
     <string name="delete_all">Delete All</string>
