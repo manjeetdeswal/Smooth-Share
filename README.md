@@ -1,6 +1,6 @@
 # Smooth-Share
 
-App link : <a href="https://play.google.com/store/apps/details?id=com.thenotesgiver.smooth_share"> Playstore Link</a>
+
 
 A simple and easy use app to manage files on your android device over wifi. Avoid using USB cables to transfer files, movies, photos and songs from your device to laptops/PCs/Macs and other android devices.
 (Both user need be on same network)
